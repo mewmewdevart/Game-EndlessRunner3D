@@ -4,6 +4,7 @@
 
 # Visual Studio / MonoDevelop generated #
 .vs/
+.vscode/
 
 # OS generated #
 .DS_Store*
